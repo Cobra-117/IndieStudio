@@ -1,1 +1,7 @@
-.log
+*.o
+*~
+vg*
+bomberman
+test
+bootstrap
+build
